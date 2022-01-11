@@ -8,7 +8,7 @@
 
 ## Repositories  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Karma-kh3n&repo=zoom&theme=chartreuse-dark)](https://github.com/Karma-kh3n/zoom)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Karma-kh3n&repo=hater&theme=chartreuse-dark)](https://github.com/Karma-kh3n/hater)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Karma-kh3n&repo=Debby&theme=chartreuse-dark)](https://github.com/Karma-kh3n/Debby)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Karma-kh3n&repo=venom&theme=chartreuse-dark)](https://github.com/Karma_Kh3n/venom)  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Karma-kh3n&repo=Faceboom&theme=chartreuse-dark)](https://github.com/Karma-kh3n/Faceboom)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Karma-kh3n&repo=hack&theme=chartreuse-dark)](https://github.com/Karma-kh3n/hack)
