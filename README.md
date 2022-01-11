@@ -9,8 +9,8 @@
 ## Repositories  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Karma-kh3n&repo=zoom&theme=chartreuse-dark)](https://github.com/Karma-kh3n/zoom)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Karma-kh3n&repo=hater&theme=chartreuse-dark)](https://github.com/Karma-kh3n/hater)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Karma-kh3n&repo=baby&theme=chartreuse-dark)](https://github.com/Karma_Kh3n/baby)  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Karma-kh3n&repo=Karmadavid&theme=chartreuse-dark)](https://github.com/Karma-kh3n/Faceboom)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Karma-kh3n&repo=venom&theme=chartreuse-dark)](https://github.com/Karma_Kh3n/venom)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Karma-kh3n&repo=Faceboom&theme=chartreuse-dark)](https://github.com/Karma-kh3n/Faceboom)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Karma-kh3n&repo=hack&theme=chartreuse-dark)](https://github.com/Karma-kh3n/hack)
 ## Social Media  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Karma-kh3n) <a href="https://github.com/Karma-kh3n">My Github</a>  
