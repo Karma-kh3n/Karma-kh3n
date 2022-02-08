@@ -1,4 +1,17 @@
-# README.md
+# KARMA DAVID
+<img src="https://github.com/Karma-kh3n/Karma-kh3n/blob/main/79895188.png" width="125" height="180" align="left">
+<center>
+
+
+* MY SOCIAL MEDIA :
+
+<a href="https://Instagram.com/karma428"><img src="https://disk.mediaindonesia.com/thumbs/1800x1200/news/2020/03/1e2c29c543e1c21f54846e7f3eae7c7e.jpg" alt="alt text" width="20" height="20"></a> 
+<a href="https://wa.me/8110044418?text=Asalamualaikum+Karma"><img src="https://github.com/Yayan-XD/Yayan-XD/blob/master/img/whatsapp.png" alt="alt text" width="20" height="20"></a>
+<a href="https://www.facebook.com/karma428"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="alt text" width="20" height="20"></a> 
+<a href="https://youtube.com/channel/UC8fr8LX2_D30HxQGpMunBUw"><img src="https://github.com/Yayan-XD/Yayan-XD/blob/master/img/logo_yt_by_YayanXD.jpg" alt="alt text" width="20" height="20"></a> 
+&nbsp;&nbsp;     &nbsp;&nbsp;    &nbsp;&nbsp;   &nbsp;&nbsp;   &nbsp;&nbsp;   
+
+___________
 ![ KARMA DAVID](https://github.com/Karma-kh3n/Faceboom/blob/96ae6cf5d8b6862d74e540f5eae2b234f9ba3a1b/karma.gif)
 ## GitHub Stats  
 ![Karma David GitHub stats](https://github-readme-stats.vercel.app/api?username=Karma-kh3n&show_icons=true&theme=chartreuse-dark)  
