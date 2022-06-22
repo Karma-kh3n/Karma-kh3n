@@ -33,6 +33,3 @@ Contact : karmadavid428@gmail.com
 ## Repositories  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Karma-kh3n&repo=Error&theme=chartreuse-dark)](https://github.com/Karma-kh3n/Error)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Karma-kh3n&repo=Zking&theme=chartreuse-dark)](https://github.com/Karma-kh3n/Zking)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Karma-kh3n&repo=Facecrack&theme=chartreuse-dark)](https://github.com/Karma_Kh3n/Facecrack)  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Karma-kh3n&repo=Faceboom&theme=chartreuse-dark)](https://github.com/Karma-kh3n/Faceboom)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Karma-kh3n&repo=hack&theme=chartreuse-dark)](https://github.com/Karma-kh3n/hack)
