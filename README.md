@@ -20,7 +20,7 @@ Contact : karmadavid428@gmail.com
 #### Donate
 
 * Donate me on  <a href="https://wa.me/8110044418?text=Asalamualaikum+Karma">HERE!</a>
-,Karma X Yayan >:(
+,Karma kh3n >:(
 
 ![ KARMA DAVID](https://github.com/Karma-kh3n/Karma-kh3n/blob/main/79895188.png)
 ## GitHub Stats  
